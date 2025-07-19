@@ -4,7 +4,7 @@ This repository contains all the exercices that I used to treat within the forma
 
 ## Goals
 
-I would like to become a computer science engineer, that's why I started to seek for some formations about programming. Then, I knew about OpenClassrooms which proposes both videos, and written lessons displayed with some concrete exercices, so I decided to start learning, probably the easiest langage nowaydays : Python.👌🤖
+I would like to become a computer science engineer, that's why I started to seek for some formations about programming. Then, I knew about OpenClassrooms which proposes both videos, and written lessons displayed with some concrete exercices, so I decided to start learning, probably the easiest programming langage nowaydays : Python.👌🤖
 
 ## Content 
 | Exercise | Themes | Names |
