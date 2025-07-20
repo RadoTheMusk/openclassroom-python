@@ -2,7 +2,7 @@ fruits = {
     "pomme" : "rouge",
     "banane" : "jaune",
     "orange" : "orange"
-}
+} #Création du dictionnaire
 fruits["kiwi"] = "vert"
 fruits.pop("banane")
 fruits['pomme'] = "vert"

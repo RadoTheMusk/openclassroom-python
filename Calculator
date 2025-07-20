@@ -1,0 +1,82 @@
+"""
+Ce script a pour but d'effectuer un calcul à partir de nombres fournis par l'utilisateur à l'aide de l'opération choisie par 
+l'utilisateur depuis un menu, bref une "calculatrice simpliste"
+"""
+
+def afficher_msg_bienvenue():
+    print ("Bienvenue sur votre calculatruce personnelle! ")
+afficher_msg_bienvenue() #Appel de la foction pour afficher le message de bienvenue 
+
+
+def division(numerator, denominator):
+    try:  
+        if denominator != 0:
+            result = numerator / denominator
+            return result
+    except ZeroDivisionError:
+        print ("Le dénominateur ne peut pas être égal à zéro, réésayez...") #Mise en exception de la division d'un nombre par zéro
+
+def addition(nombre1, nombre2):
+    result = nombre1 + nombre2
+    return result
+
+
+def soustraction(nombre1, nombre2):
+    result = nombre1 - nombre2
+    return result
+
+
+def multiplication(nombre1, nombre2):
+    result = nombre1 * nombre2
+    return result
+
+
+def afficher_le_menu():
+    print ("===MENU===")
+    print ("1. Addition")
+    print ("2. Soustraction")
+    print ("3. Division")
+    print ("4. Multiplication")
+afficher_le_menu() # Affichage du menu de sélection
+
+
+choix_user = input("Entrez l'opération que vous voulez effectuer (1-4): ")
+def user_choice():
+    return choix_user # Choix de l'opération à effectuer
+
+
+def saisir_deux_nombres():
+    num1 = float(input("Entrez le premier nombre s'il vous plait: "))
+    num2 = float(input("Entrez le second nombre s'il vous plait: "))
+    return num1, num2
+ # Entrée utilisateur pour les nombres choisis par l'utilisateur 
+
+
+ 
+while choix_user not in ["1", "2", "3", "4"]:
+    print("ERREUR! Entrez un nombre compris entre 1 et 4, rééssayez...")
+    break # Opération non comprise dans le menu > arrêt du script
+
+
+num1, num2 = saisir_deux_nombres()
+def run_calculator(choix):
+    match choix:
+        case "1":
+            result = addition(num1, num2)
+        
+        case "2":
+            result = soustraction(num1, num2)
+        
+        case "3":
+            result = division(num1, num2)
+
+        case "4":
+            result = multiplication(num1, num2)
+
+        case _:
+            print ("Choix invalide, rééssayez avec un chiffre compris entre 1 et 4...")    
+    return result # Affectation des numéros du menu aux différentes opérations
+
+result = run_calculator(choix_user)
+
+print (f"Le résultat de cette opération est {result}") #Affichage du résultat
