@@ -9,7 +9,7 @@ I would like to become a computer science engineer, that's why I started to seek
 ## Content 
 | Exercise | Themes | Names |
 |---------|----------|---------|
-| Exercise 1 | My first script | helloworld.py |
+| Exercise 1 | My first script | [helloworld.py](https://github.com) |
 | Exercise 2 | Displaying double output | main.py |
 | Exercise 3 | Variables | self_presentation.py |
 | Exercise 4 | Variables types | variable_type.py | 
@@ -24,5 +24,11 @@ I would like to become a computer science engineer, that's why I started to seek
 - Git
 
 ### Writer
-RAZAFIMIARANTSOA Radonoro Justin ~ Rado 
-As `RadoTheMusk`
+<img src="https://avatars.githubusercontent.com/u/221721534?s=400&v=4" alt="Description de l'image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">     
+
+RAZAFIMIARANTSOA Radonoro Justin ~ Rado<br>
+As `RadoTheMusk` [Profile](https://github.com/RadoTheMusk)         
+>[!TIP]
+>Links to my other  projects (more advanced) below
+
+              
