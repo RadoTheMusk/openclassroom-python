@@ -7,14 +7,21 @@ This repository contains all the exercices that I used to treat within the forma
 I would like to become a computer science engineer, that's why I started to seek for some formations about programming. Then, I knew about OpenClassrooms which proposes both videos, and written lessons displayed with some concrete exercices, so I decided to start learning, probably the easiest programming langage nowaydays : Python.👌🤖
 
 ## Content 
-| Exercise | Themes | Names+links |
-|---------|----------|---------|
-| Exercise 1 | My first script | [helloworld.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/helloworld.py) |
-| Exercise 2 | Displaying double output | [main.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/main.py) |
-| Exercise 3 | Variables | [self_presentation.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/self_presentation.py) |
-| Exercise 4 | Variables types | [variable_type.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/variables_type.py) | 
-| Exercise 5 | Lists | [lists.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/lists.py) |
-| Exercise 6 | Dictionnaries | [dictionnary.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/dictionnary.py) |
+| Part | Themes | Names+links |
+|---------|----------|---------|           
+|            | My first script | [helloworld.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/helloworld.py) |
+|            | Displaying double output | [main.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/main.py) |
+| **Part 1** | Variables | [self_presentation.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/self_presentation.py) |
+|            | Variables types | [variable_type.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/variable_type.py) | 
+|            | Lists | [lists.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/lists.py) |
+|            | Dictionnaries | [dictionnary.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/dictionnary.py) | 
+|<tr> <hr> </hr> </tr>|
+|            | "for" and "while" loops | [Boucles.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/Boucles.py) |
+| **Part 2** | Conditions | [Conditions.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/Conditions.py) |
+|            | functions | [Fonctions.py](https://github.com/RadoTheMusk/openclassroom-python/blob/main/Fonctions.py) |
+|<tr> <hr> </hr> </tr>|
+
+
 >Quite easy though but that's just the beginning🤓
 
 
