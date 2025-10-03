@@ -1,4 +1,4 @@
-# Projets informatiques 
+# Computing projects  
 
 This repository contains all the exercices that I used to treat within the formation  [Apprenez les bases du langage Python](https://openclassrom.com/fr/courses/6204541-apprenez-les-bases-du-langage-python) about the Python programming language basis by [OpenClassrooms](https://openclassroom.com) 
 
